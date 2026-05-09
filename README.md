@@ -44,7 +44,7 @@ Since this is a vanilla HTML/CSS/JS project, there is no package manager or buil
 ## 📬 Contact Me
 - **GitHub**: [@AsifaB-06](https://github.com/AsifaB-06)
 - **LinkedIn**: [asifab](https://www.linkedin.com/in/asifab/)
-- **Email**: ashifabasheer763@gmail.com
+- **Email**: asifabasheer06@gmail.com
 
 ---
 *Designed & Built with ❤️ by Asifa B.*
